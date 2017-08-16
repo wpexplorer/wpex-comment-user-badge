@@ -1,0 +1,9 @@
+/* Comment User Badge Plugin CSS */
+.wpex-comment-user-badge { display: block; float: left; padding: 0.3em 0.7em; background: #7f8c8d; color: #fff; font-size: 1em; }
+.wpex-comment-user-badge.administrator { background-color: #2ecc71; }
+.wpex-comment-user-badge.contributor { background-color: #3498db; }
+.wpex-comment-user-badge.author { background-color: #e74c3c; }
+.wpex-comment-user-badge.editor { background-color: #e67e22; }
+.wpex-comment-user-badge.subscriber { background-color: #34495e; }
+.wpex-comment-user-badge.shop_manager { background-color: #a46497; }
+.wpex-comment-user-badge.customer { background-color: #f39c12; }
